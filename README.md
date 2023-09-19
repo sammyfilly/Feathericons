@@ -18,6 +18,8 @@ npm install feather-icons
 ```
 
 ## Table of Contents
+<html><nav>https://github.com/sammyfilly/Feather</nav><
+<https://github.com/sammyfilly/Feather>
 
 * [Quick Start](#quick-start)
 * [Usage](#usage)
