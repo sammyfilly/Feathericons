@@ -50,7 +50,7 @@
     "html-minifier": "^3.5.8",
     "husky": "^8.0.3",
     "jest": "^22.4.4",
-    "lint-staged": "^11.1.1",
+    "lint-staged": "^14.0.0",
     "npm-run-all": "^4.1.2",
     "prettier": "^1.8.2",
     "semantic-release": "^22.0.0",
