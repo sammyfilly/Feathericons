@@ -34,7 +34,7 @@
   "devDependencies": {
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.7.0",
-    "algoliasearch": "^4.20.0",
+    "algoliasearch": "^5.0.0",
     "babel-cli": "^6.24.1",
     "babel-loader": "^9.0.0",
     "babel-preset-env": "^1.7.0",
